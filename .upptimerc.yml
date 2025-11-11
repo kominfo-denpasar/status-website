@@ -26,8 +26,8 @@ status-website:
   baseUrl: /status-website
   logoUrl: https://raw.githubusercontent.com/kominfo-denpasar/maintenance-page/main/logo.png
   name: Status Website
-  introTitle: "**Status Layanan & API Lingkungan Pemerintah Kota Denpasar** adalah tool monitoring untuk mengecek status website, layanan & API, powered entirely by GitHub & Upptime."
-  introMessage: Status Layanan & API Lingkungan Pemerintah Kota Denpasar. [**Web Portal Pemerintah Kota Denpasar**](https://denpasarkota.go.id). [**Web Status v2**](https://status.dpskota.my.id/status/layanan)
+  introTitle: "**Status Layanan & API Lingkungan Pemerintah Kota Denpasar**"
+  introMessage: Tool monitoring untuk mengecek status website, layanan & API, powered entirely by GitHub & Upptime.. [**Web Portal Pemerintah Kota Denpasar**](https://denpasarkota.go.id). [**Web Status v2**](https://status.dpskota.my.id/status/layanan)
   navbar:
     - title: Beranda
       href: /status-website
