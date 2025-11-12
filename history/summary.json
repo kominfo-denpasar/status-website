@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 272,
+      "2025-11-12": 1366,
       "2025-11-11": 964
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 272,
+      "2025-11-12": 1366,
       "2025-11-11": 963
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 272,
+      "2025-11-12": 1366,
       "2025-11-11": 963
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 272,
+      "2025-11-12": 1366,
       "2025-11-11": 962
     }
   },
@@ -88,18 +88,19 @@
     "url": "https://spbe.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
-    "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
-    "time": 3712,
-    "timeDay": 3712,
-    "timeWeek": 3712,
-    "timeMonth": 3712,
-    "timeYear": 3712,
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 3362,
+    "timeDay": 2068,
+    "timeWeek": 3362,
+    "timeMonth": 3362,
+    "timeYear": 3362,
     "dailyMinutesDown": {
+      "2025-11-12": 0,
       "2025-11-11": 21
     }
   },
@@ -108,18 +109,20 @@
     "url": "https://temanrita.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1273,
     "timeDay": 1273,
     "timeWeek": 1273,
     "timeMonth": 1273,
     "timeYear": 1273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "IPv6 test",
