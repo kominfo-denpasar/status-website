@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 560
+      "2025-11-12": 45,
+      "2025-11-11": 964
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 560
+      "2025-11-12": 45,
+      "2025-11-11": 963
     }
   },
   {
@@ -56,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 559
+      "2025-11-12": 45,
+      "2025-11-11": 963
     }
   },
   {
@@ -76,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 559
+      "2025-11-12": 45,
+      "2025-11-11": 962
     }
   },
   {
@@ -85,16 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
     "status": "up",
-    "uptime": "96.23%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "96.23%",
-    "time": 4139,
-    "timeDay": 4139,
-    "timeWeek": 4139,
-    "timeMonth": 4139,
-    "timeYear": 4139,
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 3612,
+    "timeDay": 3612,
+    "timeWeek": 3612,
+    "timeMonth": 3612,
+    "timeYear": 3612,
     "dailyMinutesDown": {
       "2025-11-11": 21
     }
