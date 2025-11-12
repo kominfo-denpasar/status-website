@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 45,
+      "2025-11-12": 272,
       "2025-11-11": 964
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 45,
+      "2025-11-12": 272,
       "2025-11-11": 963
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 45,
+      "2025-11-12": 272,
       "2025-11-11": 963
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 45,
+      "2025-11-12": 272,
       "2025-11-11": 962
     }
   },
@@ -89,19 +89,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
     "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
-    "time": 3612,
-    "timeDay": 3612,
-    "timeWeek": 3612,
-    "timeMonth": 3612,
-    "timeYear": 3612,
+    "uptime": "98.30%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
+    "time": 3712,
+    "timeDay": 3712,
+    "timeWeek": 3712,
+    "timeMonth": 3712,
+    "timeYear": 3712,
     "dailyMinutesDown": {
       "2025-11-11": 21
     }
+  },
+  {
+    "name": "TemanRita",
+    "url": "https://temanrita.denpasarkota.go.id",
+    "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
+    "slug": "teman-rita",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1273,
+    "timeDay": 1273,
+    "timeWeek": 1273,
+    "timeMonth": 1273,
+    "timeYear": 1273,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
