@@ -13,6 +13,8 @@ sites:
     url: https://divos.denpasarkota.go.id
   - name: SPBE
     url: https://spbe.denpasarkota.go.id
+  - name: TemanRita
+    url: https://temanrita.denpasarkota.go.id
   - name: IPv6 test
     url: forwardemail.net
     port: 80
