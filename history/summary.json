@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1376,
+      "2025-11-13": 44,
+      "2025-11-12": 1440,
       "2025-11-11": 964
     }
   },
@@ -37,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1376,
+      "2025-11-13": 44,
+      "2025-11-12": 1440,
       "2025-11-11": 963
     }
   },
@@ -58,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1376,
+      "2025-11-13": 44,
+      "2025-11-12": 1440,
       "2025-11-11": 963
     }
   },
@@ -79,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1376,
+      "2025-11-13": 44,
+      "2025-11-12": 1440,
       "2025-11-11": 962
     }
   },
@@ -89,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.73%",
     "uptimeDay": "99.29%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
-    "time": 3117,
-    "timeDay": 1839,
-    "timeWeek": 3117,
-    "timeMonth": 3117,
-    "timeYear": 3117,
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
+    "time": 2913,
+    "timeDay": 1864,
+    "timeWeek": 2913,
+    "timeMonth": 2913,
+    "timeYear": 2913,
     "dailyMinutesDown": {
       "2025-11-12": 10,
       "2025-11-11": 21
@@ -110,16 +114,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
-    "time": 4481,
-    "timeDay": 4481,
-    "timeWeek": 4481,
-    "timeMonth": 4481,
-    "timeYear": 4481,
+    "uptime": "99.16%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 4478,
+    "timeDay": 4478,
+    "timeWeek": 4478,
+    "timeMonth": 4478,
+    "timeYear": 4478,
     "dailyMinutesDown": {
       "2025-11-12": 10
     }
