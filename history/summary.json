@@ -95,12 +95,12 @@
     "url": "https://spbe.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
-    "status": "up",
-    "uptime": "96.13%",
-    "uptimeDay": "78.54%",
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "78.53%",
     "uptimeWeek": "94.46%",
     "uptimeMonth": "95.01%",
-    "uptimeYear": "96.13%",
+    "uptimeYear": "96.15%",
     "time": 2174,
     "timeDay": 3728,
     "timeWeek": 2708,
@@ -149,7 +149,7 @@
       "2025-11-20": 101,
       "2025-11-19": 17,
       "2025-11-18": 18,
-      "2025-11-15": 30
+      "2025-11-15": 10
     }
   },
   {
