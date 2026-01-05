@@ -154,12 +154,12 @@
     "url": "https://temanrita.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
-    "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "73.43%",
+    "status": "down",
+    "uptime": "95.92%",
+    "uptimeDay": "73.42%",
     "uptimeWeek": "92.51%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "95.92%",
     "time": 2289,
     "timeDay": 4103,
     "timeWeek": 3203,
@@ -207,8 +207,7 @@
       "2025-11-22": 11,
       "2025-11-21": 10,
       "2025-11-20": 101,
-      "2025-11-19": 17,
-      "2025-11-18": 18
+      "2025-11-19": 17
     }
   },
   {
