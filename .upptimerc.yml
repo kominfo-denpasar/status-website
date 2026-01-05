@@ -11,6 +11,10 @@ sites:
     url: https://spbe.denpasarkota.go.id
   - name: TemanRita
     url: https://temanrita.denpasarkota.go.id
+  - name: Development (Proxy 2)
+    url: https://dev.denpasarkota.go.id
+  - name: e-Sign (Proxy 1)
+    url: https://esign.denpasarkota.go.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
