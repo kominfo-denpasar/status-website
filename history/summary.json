@@ -31,18 +31,19 @@
     "url": "https://divos.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/divos.denpasarkota.go.id.ico",
     "slug": "divos",
-    "status": "up",
-    "uptime": "95.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.00%",
+    "status": "down",
+    "uptime": "95.83%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "90.99%",
     "uptimeMonth": "96.22%",
-    "uptimeYear": "95.81%",
-    "time": 2223,
-    "timeDay": 1078,
-    "timeWeek": 1668,
-    "timeMonth": 2018,
-    "timeYear": 2223,
+    "uptimeYear": "95.83%",
+    "time": 2218,
+    "timeDay": 1046,
+    "timeWeek": 1632,
+    "timeMonth": 2007,
+    "timeYear": 2218,
     "dailyMinutesDown": {
+      "2026-01-17": 1,
       "2026-01-15": 828,
       "2026-01-14": 48,
       "2026-01-13": 20,
@@ -92,7 +93,7 @@
       "2025-11-17": 127,
       "2025-11-16": 938,
       "2025-11-15": 205,
-      "2025-11-14": 56
+      "2025-11-14": 37
     }
   },
   {
@@ -100,19 +101,19 @@
     "url": "https://spbe.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
-    "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "85.33%",
-    "uptimeWeek": "96.66%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "96.65%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.51%",
     "time": 2177,
     "timeDay": 1799,
     "timeWeek": 1675,
     "timeMonth": 2204,
     "timeYear": 2177,
     "dailyMinutesDown": {
-      "2026-01-17": 16,
+      "2026-01-17": 17,
       "2026-01-16": 196,
       "2026-01-15": 47,
       "2026-01-14": 48,
@@ -153,7 +154,7 @@
       "2025-12-03": 46,
       "2025-12-02": 89,
       "2025-12-01": 121,
-      "2025-11-30": 37
+      "2025-11-30": 15
     }
   },
   {
@@ -161,18 +162,19 @@
     "url": "https://temanrita.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "91.64%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "91.63%",
     "uptimeWeek": "97.56%",
     "uptimeMonth": "95.53%",
-    "uptimeYear": "96.54%",
+    "uptimeYear": "96.56%",
     "time": 2268,
     "timeDay": 3350,
     "timeWeek": 1761,
     "timeMonth": 2439,
     "timeYear": 2268,
     "dailyMinutesDown": {
+      "2026-01-17": 0,
       "2026-01-16": 120,
       "2026-01-15": 47,
       "2026-01-14": 48,
@@ -213,7 +215,7 @@
       "2025-12-03": 46,
       "2025-12-02": 89,
       "2025-12-01": 121,
-      "2025-11-30": 112
+      "2025-11-30": 97
     }
   },
   {
