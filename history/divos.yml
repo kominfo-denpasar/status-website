@@ -1,7 +1,7 @@
 url: https://divos.denpasarkota.go.id
-status: up
-code: 200
-responseTime: 5335
-lastUpdated: 2026-01-17T23:23:18.448Z
+status: down
+code: 415
+responseTime: 1242
+lastUpdated: 2026-01-18T05:55:04.999Z
 startTime: 2025-11-11T08:01:58.535Z
 generator: Upptime <https://github.com/upptime/upptime>
