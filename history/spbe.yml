@@ -1,7 +1,7 @@
 url: https://spbe.denpasarkota.go.id
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2026-02-06T23:30:50.300Z
+status: down
+code: 415
+responseTime: 1111
+lastUpdated: 2026-02-07T09:38:26.556Z
 startTime: 2025-11-11T08:02:29.126Z
 generator: Upptime <https://github.com/upptime/upptime>
