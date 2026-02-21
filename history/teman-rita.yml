@@ -1,7 +1,7 @@
 url: https://temanrita.denpasarkota.go.id
-status: up
-code: 200
-responseTime: 1780
-lastUpdated: 2026-02-21T11:02:16.173Z
+status: down
+code: 415
+responseTime: 6081
+lastUpdated: 2026-02-21T12:00:31.400Z
 startTime: 2025-11-12T04:31:26.666Z
 generator: Upptime <https://github.com/upptime/upptime>
