@@ -114,19 +114,19 @@
     "url": "https://spbe.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
-    "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "83.81%",
-    "uptimeWeek": "86.06%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "86.05%",
     "uptimeMonth": "91.43%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.35%",
     "time": 2170,
     "timeDay": 1187,
     "timeWeek": 1357,
     "timeMonth": 1817,
     "timeYear": 2170,
     "dailyMinutesDown": {
-      "2026-04-18": 234,
+      "2026-04-18": 235,
       "2026-04-17": 107,
       "2026-04-16": 150,
       "2026-04-15": 161,
@@ -177,7 +177,7 @@
       "2026-02-24": 107,
       "2026-02-23": 63,
       "2026-02-22": 212,
-      "2026-02-21": 113
+      "2026-02-21": 45
     }
   },
   {
@@ -185,12 +185,12 @@
     "url": "https://temanrita.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
-    "status": "up",
-    "uptime": "96.33%",
-    "uptimeDay": "83.87%",
+    "status": "down",
+    "uptime": "96.38%",
+    "uptimeDay": "83.86%",
     "uptimeWeek": "86.12%",
     "uptimeMonth": "86.59%",
-    "uptimeYear": "96.33%",
+    "uptimeYear": "96.38%",
     "time": 2303,
     "timeDay": 1398,
     "timeWeek": 1853,
@@ -247,7 +247,7 @@
       "2026-02-24": 107,
       "2026-02-23": 63,
       "2026-02-22": 211,
-      "2026-02-21": 281
+      "2026-02-21": 171
     }
   },
   {
