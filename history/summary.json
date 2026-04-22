@@ -39,12 +39,12 @@
     "status": "up",
     "uptime": "97.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.19%",
+    "uptimeWeek": "96.60%",
     "uptimeMonth": "91.67%",
     "uptimeYear": "97.17%",
     "time": 2272,
     "timeDay": 5632,
-    "timeWeek": 1680,
+    "timeWeek": 1695,
     "timeMonth": 2658,
     "timeYear": 2272,
     "dailyMinutesDown": {
@@ -115,19 +115,19 @@
     "url": "https://spbe.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/spbe.denpasarkota.go.id.ico",
     "slug": "spbe",
-    "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "88.02%",
-    "uptimeMonth": "90.26%",
-    "uptimeYear": "97.37%",
+    "status": "down",
+    "uptime": "97.38%",
+    "uptimeDay": "79.46%",
+    "uptimeWeek": "88.43%",
+    "uptimeMonth": "90.25%",
+    "uptimeYear": "97.38%",
     "time": 2152,
     "timeDay": 1289,
-    "timeWeek": 1207,
+    "timeWeek": 1205,
     "timeMonth": 1647,
     "timeYear": 2152,
     "dailyMinutesDown": {
-      "2026-04-22": 114,
+      "2026-04-22": 115,
       "2026-04-21": 181,
       "2026-04-19": 276,
       "2026-04-18": 286,
@@ -176,8 +176,7 @@
       "2026-03-02": 125,
       "2026-03-01": 84,
       "2026-02-28": 20,
-      "2026-02-26": 102,
-      "2026-02-25": 29
+      "2026-02-26": 102
     }
   },
   {
@@ -185,15 +184,15 @@
     "url": "https://temanrita.denpasarkota.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/temanrita.denpasarkota.go.id.ico",
     "slug": "teman-rita",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "79.61%",
-    "uptimeWeek": "88.08%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "88.50%",
     "uptimeMonth": "88.08%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.41%",
     "time": 2302,
     "timeDay": 2630,
-    "timeWeek": 1784,
+    "timeWeek": 1790,
     "timeMonth": 2152,
     "timeYear": 2302,
     "dailyMinutesDown": {
@@ -247,7 +246,7 @@
       "2026-02-28": 19,
       "2026-02-26": 102,
       "2026-02-25": 132,
-      "2026-02-24": 107
+      "2026-02-24": 59
     }
   },
   {
